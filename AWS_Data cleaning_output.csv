@@ -1,0 +1,488 @@
+"Activity Period","Operating Airline","Operating Airline IATA Code","Published Airline","Published Airline IATA Code","GEO Summary","GEO Region","Activity Type Code","Price Category Code","Price Category Code_extracted",Terminal,"Boarding Area","Passenger Count"
+201710,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,1
+201701,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,1
+201701,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,1
+201610,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,International,G,1
+201607,"United Airlines",UA,"United Airlines",UA,International,Canada,"Thru / Transit",Other,,International,G,1
+201606,"United Airlines",UA,"United Airlines",UA,International,Canada,"Thru / Transit",Other,,International,G,1
+201507,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,1
+201501,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,International,G,1
+201411,"United Airlines",UA,"United Airlines",UA,International,Canada,"Thru / Transit",Other,,International,G,1
+201112,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,1
+200807,Ameriflight,A8,Ameriflight,A8,Domestic,US,Deplaned,Other,,Other,Other,1
+200802,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,1
+200801,Ameriflight,A8,Ameriflight,A8,Domestic,US,Deplaned,Other,,Other,Other,1
+200611,Ameriflight,A8,Ameriflight,A8,Domestic,US,Deplaned,Other,,Other,Other,1
+200611,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,1
+201604,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,2
+201601,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,2
+201503,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,2
+201202,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,Deplaned,Other,,International,A,2
+200903,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,2
+200801,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,2
+200712,Ameriflight,A8,Ameriflight,A8,Domestic,US,Deplaned,Other,,Other,Other,2
+200712,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,2
+200710,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,2
+200611,"Evergreen International Airlines",EZ,"Evergreen International Airlines",EZ,International,Asia,Enplaned,Other,,Other,Other,2
+200611,"Evergreen International Airlines",EZ,"Evergreen International Airlines",EZ,International,Asia,Deplaned,Other,,Other,Other,2
+200610,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,2
+201309,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,"Thru / Transit",Other,,Other,Other,3
+201806,"United Airlines",UA,"United Airlines",UA,International,Canada,"Thru / Transit",Other,,International,G,4
+201709,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,4
+201701,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,4
+201610,"United Airlines",UA,"United Airlines",UA,International,Asia,"Thru / Transit",Other,,International,G,4
+200905,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,4
+200902,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,4
+200805,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,4
+200804,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,4
+200711,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,4
+200612,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,4
+200612,Ameriflight,A8,Ameriflight,A8,Domestic,US,Deplaned,Other,,Other,Other,4
+201708,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,5
+201011,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,5
+200805,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,5
+200706,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,5
+200705,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,5
+200702,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,5
+200606,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,5
+200606,Ameriflight,A8,Ameriflight,A8,Domestic,US,Deplaned,Other,,Other,Other,5
+200605,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,5
+201702,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,6
+201612,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,6
+201506,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,6
+200909,Aeromexico,AM,Aeromexico,AM,International,Mexico,Deplaned,Other,,International,G,6
+200808,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,6
+201511,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,7
+201502,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,International,G,7
+200901,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,7
+200807,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,7
+200803,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,7
+200801,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,7
+200707,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,7
+200608,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,7
+201707,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,8
+200711,Ameriflight,A8,Ameriflight,A8,Domestic,US,Deplaned,Other,,Other,Other,8
+200609,Ameriflight,A8,Ameriflight,A8,Domestic,US,Deplaned,Other,,Other,Other,8
+200605,Ameriflight,A8,Ameriflight,A8,Domestic,US,"Thru / Transit",Other,,Other,Other,8
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,9
+201502,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,9
+200704,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,9
+200609,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,9
+201809,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,10
+201803,"WOW Air",WW,"WOW Air",WW,International,Europe,Enplaned,Other,,International,G,10
+201608,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia  Oceania",Deplaned,"Low Fare","Low Fare",International,G,10
+201507,"United Airlines",UA,"United Airlines",UA,International,Canada,"Thru / Transit",Other,,International,G,10
+201404,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,10
+200906,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,10
+200811,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,10
+200810,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,10
+200808,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,10
+200806,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,10
+200701,Ameriflight,A8,Ameriflight,A8,Domestic,US,Enplaned,Other,,Other,Other,10
+200509,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,10
+200507,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,10
+201804,"Hong Kong Airlines Limited",HX,"Hong Kong Airlines Limited",HX,International,Asia,"Thru / Transit",Other,,International,A,11
+201801,"WOW Air",WW,"WOW Air",WW,International,Europe,Enplaned,Other,,International,G,11
+201703,"United Airlines",UA,"United Airlines",UA,International,Canada,"Thru / Transit",Other,,International,G,11
+201507,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,11
+201505,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,11
+201411,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,International,G,11
+201805,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,12
+201203,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,12
+201706,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,13
+201405,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,13
+201402,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,13
+200704,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,13
+200609,"BelAir Airlines",4T,"BelAir Airlines",4T,International,Europe,Deplaned,Other,,International,A,13
+200604,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,13
+201802,"WOW Air",WW,"WOW Air",WW,International,Europe,Enplaned,Other,,International,G,14
+201509,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,14
+201302,"SkyWest Airlines",OO,"United Airlines - Pre 07/01/2013",UA,International,Canada,Deplaned,Other,,International,G,14
+201101,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,14
+200904,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,14
+200809,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,14
+201612,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,15
+201611,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,15
+201411,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,15
+200803,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,15
+201807,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,16
+201706,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,16
+201609,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,16
+201602,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,16
+201501,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,16
+201410,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,16
+201110,Servisair,,Servisair,,International,Europe,Enplaned,"Low Fare","Low Fare",International,A,16
+201110,Servisair,,Servisair,,International,Europe,Deplaned,"Low Fare","Low Fare",International,A,16
+201801,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,17
+201604,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,17
+201412,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,17
+200903,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,17
+201707,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,18
+200508,"Boeing Company",,"Boeing Company",,Domestic,US,Deplaned,Other,,Other,Other,18
+201804,"WOW Air",WW,"WOW Air",WW,International,Europe,Enplaned,Other,,International,G,19
+201611,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,19
+201605,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,19
+201409,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,International,G,19
+201202,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,19
+201501,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,20
+201412,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,20
+201408,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,International,G,20
+201705,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,21
+201611,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,21
+201610,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,21
+201109,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,21
+200612,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,21
+201602,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,22
+201409,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,22
+201808,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,23
+201607,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,23
+201505,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,International,G,23
+201702,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,24
+201001,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,24
+201404,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Enplaned,Other,,"Terminal 1",C,25
+201201,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Europe,"Thru / Transit",Other,,International,G,25
+200606,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,25
+201711,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,26
+201411,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,26
+200908,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,26
+200808,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,26
+201510,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,27
+201410,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,27
+201403,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,27
+201312,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,27
+201309,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Enplaned,Other,,"Terminal 1",B,27
+200909,Aeromexico,AM,Aeromexico,AM,International,Mexico,Enplaned,Other,,International,G,28
+200510,"Miami Air International",GL,"Miami Air International",GL,International,Canada,Deplaned,Other,,International,A,28
+201708,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,29
+201608,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,29
+201603,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,29
+201311,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,29
+200907,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,29
+201712,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,30
+201408,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,30
+201807,"WOW Air",WW,"WOW Air",WW,International,Europe,Enplaned,Other,,International,G,31
+201602,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,31
+201504,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,31
+201406,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,31
+201809,"WOW Air",WW,"WOW Air",WW,International,Europe,Enplaned,Other,,International,G,32
+201604,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,32
+201410,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,International,G,32
+201407,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,32
+201610,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,33
+201712,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,34
+201609,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,34
+201209,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,35
+201611,"Compass Airlines",CP,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,36
+201507,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,36
+201502,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,36
+201406,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Enplaned,Other,,"Terminal 1",B,36
+201406,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Deplaned,Other,,"Terminal 1",B,36
+201310,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Enplaned,Other,,"Terminal 1",B,36
+200904,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,36
+200711,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,36
+201506,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,37
+201712,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,38
+200601,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,38
+201805,"WOW Air",WW,"WOW Air",WW,International,Europe,Enplaned,Other,,International,G,39
+201603,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,39
+201601,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,39
+201211,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,39
+200710,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,39
+201606,"Air Pacific Limited dba Fiji Airways",FJ,"Air Pacific Limited dba Fiji Airways",FJ,International,"Australia  Oceania",Deplaned,"Low Fare","Low Fare",International,G,40
+201505,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,40
+201411,"AirTran Airways",FL,"AirTran Airways",FL,Domestic,US,Enplaned,"Low Fare","Low Fare","Terminal 1",B,40
+201408,"United Airlines",UA,"United Airlines",UA,International,Mexico,"Thru / Transit",Other,,International,G,40
+201101,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,40
+201101,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,40
+201010,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,40
+200904,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,40
+200510,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,40
+201802,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,41
+201704,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,41
+201502,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,41
+201808,"WOW Air",WW,"WOW Air",WW,International,Europe,Enplaned,Other,,International,G,42
+201803,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,43
+201602,"Compass Airlines",CP,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,43
+201512,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,43
+201607,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,44
+201508,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,44
+201702,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,45
+200902,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,45
+200611,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,45
+200507,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,45
+201611,"Mesa Airlines",YV,"United Airlines",UA,Domestic,US,Deplaned,Other,,"Terminal 3",E,46
+201512,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,46
+200907,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,46
+201506,"United Airlines",UA,"United Airlines",UA,International,Canada,Deplaned,Other,,International,G,47
+201402,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Deplaned,Other,,"Terminal 1",B,47
+201310,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Enplaned,Other,,"Terminal 1",C,48
+201110,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,48
+201110,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,48
+200701,"ATA Airlines",TZ,"ATA Airlines",TZ,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,48
+200701,"ATA Airlines",TZ,"ATA Airlines",TZ,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,48
+201306,"Air China",CA,"Air China",CA,International,Asia,Enplaned,Other,,International,G,49
+200901,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,49
+201806,"WOW Air",WW,"WOW Air",WW,International,Europe,Enplaned,Other,,International,G,50
+201610,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,50
+201503,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,50
+201310,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Deplaned,Other,,"Terminal 1",C,50
+200705,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,50
+201502,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Deplaned,Other,,"Terminal 1",B,51
+201501,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Enplaned,Other,,"Terminal 1",B,51
+201203,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,51
+201203,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,51
+201806,"French Bee",BF,"French Bee",BF,International,"Australia  Oceania",Deplaned,Other,,International,A,52
+201412,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Enplaned,Other,,"Terminal 1",B,52
+201412,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Deplaned,Other,,"Terminal 1",B,52
+201402,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Enplaned,Other,,"Terminal 1",B,52
+201009,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,52
+200811,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,52
+200712,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,52
+200607,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,52
+200906,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,53
+200905,"Miami Air International",GL,"Miami Air International",GL,Domestic,US,Enplaned,Other,,International,A,53
+201709,"United Airlines",UA,"United Airlines",UA,International,Canada,"Thru / Transit",Other,,International,G,54
+201612,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,54
+200609,"BelAir Airlines",4T,"BelAir Airlines",4T,International,Europe,Enplaned,Other,,International,A,54
+201710,"SkyWest Airlines",OO,"American Airlines",AA,Domestic,US,Deplaned,Other,,"Terminal 2",D,55
+201704,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,55
+201605,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,55
+200905,"Miami Air International",GL,"Miami Air International",GL,Domestic,US,Deplaned,Other,,International,A,55
+200903,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,55
+201801,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,56
+201701,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,56
+201704,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,57
+201612,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,57
+201606,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,57
+201212,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,57
+201212,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,57
+201210,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,57
+201210,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,57
+201205,"Air New Zealand",NZ,"Air New Zealand",NZ,International,"Australia  Oceania",Enplaned,"Low Fare","Low Fare",International,G,57
+200807,"Miami Air International",GL,"Miami Air International",GL,Domestic,US,Deplaned,Other,,International,A,58
+201604,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,60
+200807,"Miami Air International",GL,"Miami Air International",GL,Domestic,US,Enplaned,Other,,International,A,60
+200608,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,60
+201708,"United Airlines",UA,"United Airlines",UA,International,"Central America",Deplaned,Other,,International,G,62
+201703,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,62
+201606,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,62
+201310,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,62
+201206,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,62
+201206,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,62
+200910,"Sun Country Airlines",SY,"Sun Country Airlines",SY,Domestic,US,Enplaned,"Low Fare","Low Fare","Terminal 1",B,62
+200702,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,63
+201401,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,64
+201211,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,64
+201103,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,64
+201103,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,64
+201002,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,64
+200707,"Miami Air International",GL,"Miami Air International",GL,Domestic,US,Enplaned,Other,,International,A,64
+200512,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,64
+201411,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,65
+201309,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Deplaned,Other,,Other,Other,65
+201006,"Mesaba Airlines",XJ,"Delta Air Lines",DL,Domestic,US,Deplaned,Other,,"Terminal 1",C,65
+200912,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,65
+200909,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,65
+200802,"ATA Airlines",TZ,"ATA Airlines",TZ,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,66
+200606,"BelAir Airlines",4T,"BelAir Airlines",4T,International,Europe,Deplaned,Other,,International,A,66
+201609,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,67
+201411,"AirTran Airways",FL,"AirTran Airways",FL,Domestic,US,Deplaned,"Low Fare","Low Fare","Terminal 1",B,67
+201311,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Deplaned,Other,,"Terminal 1",B,67
+200709,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,67
+201808,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Enplaned,Other,,"Terminal 1",C,68
+201510,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,68
+201808,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Deplaned,Other,,"Terminal 1",C,69
+201611,"SkyWest Airlines",OO,"American Airlines",AA,Domestic,US,Deplaned,Other,,"Terminal 2",D,70
+201505,"Compass Airlines",CP,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,70
+200710,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,70
+201703,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,71
+201208,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,71
+200812,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,71
+201107,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,72
+200801,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,72
+201710,"Swissport USA",,"Swissport USA",,International,Europe,Deplaned,Other,,International,A,73
+201710,"Swissport USA",,"Swissport USA",,International,Europe,Enplaned,Other,,International,A,73
+201502,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,73
+201005,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,G,73
+201005,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,G,73
+200608,"Xtra Airways",XP,"Xtra Airways",XP,Domestic,US,Enplaned,Other,,International,A,73
+200608,"Xtra Airways",XP,"Xtra Airways",XP,Domestic,US,Deplaned,Other,,International,A,73
+200809,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,74
+200807,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,74
+201711,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,75
+201606,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,75
+201310,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,75
+201310,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,75
+201605,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,76
+201006,"Mesaba Airlines",XJ,"Delta Air Lines",DL,Domestic,US,Enplaned,Other,,"Terminal 1",C,76
+201201,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,77
+201201,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,77
+201005,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,77
+201409,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Deplaned,Other,,"Terminal 1",B,78
+201204,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,78
+200508,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,78
+201111,"Mesa Airlines",YV,"US Airways",US,Domestic,US,Deplaned,Other,,"Terminal 1",B,79
+200910,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,79
+201311,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Enplaned,Other,,"Terminal 1",B,80
+201708,"United Airlines",UA,"United Airlines",UA,International,"South America",Deplaned,Other,,International,G,81
+201103,"Miami Air International",GL,"Miami Air International",GL,Domestic,US,Deplaned,Other,,International,A,81
+200810,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,81
+201512,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Deplaned,"Low Fare","Low Fare",International,G,82
+201302,Emirates,EK,Emirates,EK,International,"Middle East",Enplaned,"Low Fare","Low Fare",International,A,82
+201806,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,83
+201805,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,84
+201710,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Enplaned,"Low Fare","Low Fare",International,G,84
+201604,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,84
+200701,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,84
+201302,Emirates,EK,Emirates,EK,International,"Middle East",Deplaned,Other,,International,A,85
+201110,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,85
+200808,"Miami Air International",GL,"Miami Air International",GL,Domestic,US,Deplaned,Other,,International,A,85
+200611,"ATA Airlines",TZ,"ATA Airlines",TZ,Domestic,US,"Thru / Transit","Low Fare","Low Fare",International,A,85
+201809,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,86
+200911,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,86
+200805,"Miami Air International",GL,"Miami Air International",GL,Domestic,US,Deplaned,Other,,International,A,86
+201712,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,87
+201206,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,87
+200911,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,88
+200606,"BelAir Airlines",4T,"BelAir Airlines",4T,International,Europe,Enplaned,Other,,International,A,89
+200905,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,90
+200908,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,91
+200912,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,92
+201803,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,93
+201701,"United Airlines",UA,"United Airlines",UA,International,Asia,Enplaned,Other,,"Terminal 3",F,93
+201408,"Republic Airlines",RW,"Republic Airlines",RW,Domestic,US,Enplaned,Other,,"Terminal 1",B,93
+201204,"Swissport USA",,"Swissport USA",,International,Europe,"Thru / Transit",Other,,International,A,93
+201804,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,94
+201710,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,94
+201709,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,94
+200909,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,94
+201404,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Deplaned,Other,,"Terminal 1",C,95
+201311,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Deplaned,Other,,International,A,95
+201004,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,95
+201801,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,96
+201711,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,96
+200509,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,96
+201502,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,97
+201801,"Swissport USA",,"Swissport USA",,Domestic,US,Deplaned,Other,,International,A,98
+201509,"United Airlines",UA,"United Airlines",UA,International,Canada,"Thru / Transit",Other,,International,G,98
+201109,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,98
+201108,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,98
+200710,"ATA Airlines",TZ,"ATA Airlines",TZ,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,100
+201111,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Europe,"Thru / Transit",Other,,International,G,101
+201011,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,101
+201808,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,102
+201511,"Virgin America",VX,"Virgin America",VX,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,103
+201508,"United Airlines",UA,"United Airlines",UA,International,Canada,"Thru / Transit",Other,,International,G,103
+201506,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,103
+201205,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,103
+201105,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,104
+201802,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,105
+201807,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,106
+201205,"XL Airways France",SE,"XL Airways France",SE,International,Europe,Deplaned,Other,,International,A,106
+201208,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,107
+201002,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,107
+201802,"United Airlines",UA,"United Airlines",UA,International,Canada,Deplaned,Other,,International,G,108
+201705,"Trego Dugan Aviation",,"Trego Dugan Aviation",,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,108
+200905,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,108
+200812,"Northwest Airlines",NW,"Northwest Airlines",NW,International,Asia,"Thru / Transit",Other,,International,A,108
+200509,"BelAir Airlines",4T,"BelAir Airlines",4T,International,Europe,Deplaned,Other,,International,A,108
+201504,"United Airlines",UA,"United Airlines",UA,International,Mexico,Enplaned,Other,,"Terminal 3",E,109
+201510,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,110
+201410,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,110
+201112,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,110
+201101,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,110
+200803,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,110
+201702,"United Airlines",UA,"United Airlines",UA,International,Europe,Enplaned,Other,,"Terminal 3",E,111
+201704,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,International,G,112
+200609,"BelAir Airlines",4T,"BelAir Airlines",4T,International,Europe,"Thru / Transit",Other,,International,A,112
+201603,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,114
+201511,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Deplaned,"Low Fare","Low Fare",International,G,114
+201510,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Deplaned,"Low Fare","Low Fare",International,G,114
+201207,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,114
+201108,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,114
+200909,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,114
+201208,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,115
+200910,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,115
+200606,"Air Canada Jazz",QK,"Air Canada",AC,International,Canada,Enplaned,Other,,"Terminal 1",B,115
+200609,"Mesa Airlines",YV,"US Airways",US,Domestic,US,Enplaned,Other,,"Terminal 1",B,116
+200606,"Air Canada Jazz",QK,"Air Canada",AC,International,Canada,Deplaned,Other,,"Terminal 1",B,116
+201805,"French Bee",BF,"French Bee",BF,International,"Australia  Oceania",Enplaned,Other,,International,A,117
+201707,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,117
+201702,"United Airlines",UA,"United Airlines",UA,International,Canada,Deplaned,Other,,International,G,117
+201008,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,G,118
+201008,Servisair,,Servisair,,Domestic,US,Enplaned,"Low Fare","Low Fare",International,G,118
+201008,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,118
+200608,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Canada,"Thru / Transit",Other,,"Terminal 1",B,118
+201602,"United Airlines",UA,"United Airlines",UA,International,Mexico,Enplaned,Other,,"Terminal 3",E,119
+201208,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,119
+201102,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,119
+200710,"ATA Airlines",TZ,"ATA Airlines",TZ,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,119
+200608,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,119
+201304,Servisair,,Servisair,,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,120
+200607,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,Domestic,US,Enplaned,Other,,International,G,120
+200604,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Canada,"Thru / Transit",Other,,International,A,120
+201407,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Deplaned,Other,,International,A,121
+201406,"Alaska Airlines",AS,"Alaska Airlines",AS,Domestic,US,Deplaned,Other,,International,A,121
+200911,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,121
+201710,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,122
+201609,"United Airlines",UA,"United Airlines",UA,International,Canada,Enplaned,Other,,International,G,123
+201510,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,123
+201105,"Miami Air International",GL,"Miami Air International",GL,Domestic,US,Deplaned,Other,,International,A,123
+200512,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,123
+201809,"French Bee",BF,"French Bee",BF,International,"Australia  Oceania",Enplaned,Other,,International,A,124
+201705,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,124
+201607,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Enplaned,"Low Fare","Low Fare",International,G,124
+201606,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Deplaned,"Low Fare","Low Fare",International,G,124
+201006,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,124
+200809,"ExpressJet Airlines",XE,"Delta Air Lines",DL,Domestic,US,Deplaned,Other,,"Terminal 1",C,125
+200802,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,125
+201509,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,126
+200806,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,126
+200710,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Canada,"Thru / Transit",Other,,"Terminal 1",B,126
+201604,"United Airlines",UA,"United Airlines",UA,International,Canada,Deplaned,Other,,International,G,127
+201502,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,127
+201204,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,127
+200908,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,127
+200709,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,127
+200707,"ATA Airlines",TZ,"ATA Airlines",TZ,Domestic,US,Deplaned,"Low Fare","Low Fare",International,A,127
+201512,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,128
+201201,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,128
+201606,"SkyWest Airlines",OO,"Alaska Airlines",AS,Domestic,US,Enplaned,Other,,International,A,129
+201202,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,129
+201106,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,129
+201501,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,130
+201806,"United Airlines",UA,"United Airlines",UA,International,Canada,Enplaned,Other,,International,G,131
+201802,"United Airlines",UA,"United Airlines",UA,International,Europe,Enplaned,Other,,"Terminal 3",F,131
+201508,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,131
+201011,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,131
+201506,"United Airlines",UA,"United Airlines",UA,International,Mexico,Enplaned,Other,,"Terminal 3",E,132
+201612,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Enplaned,"Low Fare","Low Fare",International,G,133
+201405,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Enplaned,Other,,"Terminal 1",C,133
+200610,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,Domestic,US,Enplaned,Other,,International,G,133
+201805,"Hong Kong Airlines Limited",HX,"Hong Kong Airlines Limited",HX,International,Asia,"Thru / Transit",Other,,International,A,134
+200804,"Miami Air International",GL,"Miami Air International",GL,Domestic,US,Deplaned,Other,,International,A,136
+201704,"WestJet Airlines",WS,"WestJet Airlines",WS,International,Canada,"Thru / Transit",Other,,International,G,137
+201606,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Enplaned,"Low Fare","Low Fare",International,G,138
+201604,"Air India Limited",AI,"Air India Limited",AI,International,Asia,Enplaned,"Low Fare","Low Fare",International,G,138
+201412,"Delta Air Lines",DL,"Delta Air Lines",DL,Domestic,US,"Thru / Transit",Other,,"Terminal 1",C,138
+201405,"SkyWest Airlines",OO,"Delta Air Lines",DL,Domestic,US,Deplaned,Other,,"Terminal 1",C,138
+201307,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Enplaned,Other,,International,A,138
+201211,"Alaska Airlines",AS,"Alaska Airlines",AS,International,Mexico,Enplaned,Other,,International,A,138
+200810,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",E,138
+200707,"ATA Airlines",TZ,"ATA Airlines",TZ,Domestic,US,Enplaned,"Low Fare","Low Fare",International,A,138
+200704,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,Domestic,US,Enplaned,Other,,International,G,138
+201708,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,139
+201706,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,139
+201010,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,139
+201612,"United Airlines",UA,"United Airlines",UA,International,Asia,Enplaned,Other,,"Terminal 3",E,141
+201512,"United Airlines",UA,"United Airlines",UA,International,Canada,Deplaned,Other,,International,G,141
+201207,"Southwest Airlines",WN,"Southwest Airlines",WN,Domestic,US,"Thru / Transit","Low Fare","Low Fare","Terminal 1",B,141
+201107,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,141
+201102,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Canada,"Thru / Transit",Other,,"Terminal 3",F,141
+201511,"United Airlines",UA,"United Airlines",UA,International,Mexico,Enplaned,Other,,"Terminal 3",E,142
+201610,"United Airlines",UA,"United Airlines",UA,International,Canada,Deplaned,Other,,International,G,143
+200806,"United Airlines - Pre 07/01/2013",UA,"United Airlines - Pre 07/01/2013",UA,International,Mexico,"Thru / Transit",Other,,International,G,143
+201512,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Enplaned,"Low Fare","Low Fare",International,G,144
+201511,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Enplaned,"Low Fare","Low Fare",International,G,144
+201510,"JetBlue Airways",B6,"JetBlue Airways",B6,Domestic,US,Enplaned,"Low Fare","Low Fare",International,G,144
+201507,"United Airlines",UA,"United Airlines",UA,Domestic,US,"Thru / Transit",Other,,"Terminal 3",F,144
